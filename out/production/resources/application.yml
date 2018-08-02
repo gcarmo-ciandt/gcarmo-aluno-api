@@ -1,0 +1,6 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: foo
+      contact-points: 172.17.0.2
+      schema-action: create_if_not_exists

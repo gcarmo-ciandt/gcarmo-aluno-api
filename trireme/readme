@@ -1,0 +1,13 @@
+Documentation:
+https://github.com/o19s/trireme
+
+Requirements:
+cqlsh
+    sudo pip install cqlsh
+
+Installation:
+    sudo pip install trireme
+
+How o run:
+    .../trireme/$ inv trireme.cassandra.migrate
+
